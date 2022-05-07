@@ -1,0 +1,132 @@
+
+Ping www.google.com (172.217.1.100): 256 data bytes
+Receive 68 bytes from www.google.com (172.217.1.100): icmp_seq=0 ttl=59 time=7.4 ms
+Receive 68 bytes from www.google.com (172.217.1.100): icmp_seq=1 ttl=59 time=13.8 ms
+
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip (ms)  min/avg/max = 7.449/10.623/13.797
+
+Ping www.google.com (172.217.1.100): 256 data bytes
+Receive 68 bytes from www.google.com (172.217.1.100): icmp_seq=0 ttl=59 time=15.0 ms
+Receive 68 bytes from www.google.com (172.217.1.100): icmp_seq=1 ttl=59 time=16.7 ms
+
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip (ms)  min/avg/max = 15.021/15.883/16.744
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=15.09 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=15.77 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 %% packet loss
+round-trip (ms)  min/avg/max = 15.092/15.431/15.770
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=14.75 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.39 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 %% packet loss
+round-trip (ms)  min/avg/max = 14.748/18.569/22.391
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=21.60 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.35 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 %% packet loss
+round-trip (ms)  min/avg/max = 21.604/21.978/22.351
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=14.83 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.73 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 14.829/18.780/22.732
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=21.09 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.55 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 21.092/21.822/22.553
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=21.32 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=20.10 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 20.10/20.71/21.32
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=14.43 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=16.28 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 14.43/15.35/16.28
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=19.85 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=15.75 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 15.75/17.80/19.85
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=13.64 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.53 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 13.64/18.09/22.53
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=21.44 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.48 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip (ms)  min/avg/max = 21.44/21.96/22.48
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=13.95 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.44 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip min/avg/max = 13.95(ms)/18.20(ms)/22.44(ms)
+Ping www.google.com at (142.250.190.132): 256 data bytes
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=22.06 ms
+Receive 68 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.46 ms
+----www.google.com PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip min/avg/max = 22.06(ms)/22.26(ms)/22.46(ms)
+Ping www.google.com at (142.250.190.132): 32 data bytes
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=14.58 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=22.28 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=2 ttl=118 time=22.24 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=3 ttl=118 time=125.49 ms
+----www.google.com PING Statistics----
+4 packets transmitted, 4 packets received, 0.00 % packet loss
+round-trip min/avg/max = 14.58(ms)/46.15(ms)/125.49(ms)
+Ping www.google.com at (142.250.190.132): 32 data bytes
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=13.49 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=15.87 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=2 ttl=118 time=15.63 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=3 ttl=118 time=17.50 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=4 ttl=118 time=45.83 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=5 ttl=118 time=113.85 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=6 ttl=118 time=136.36 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=7 ttl=118 time=178.56 ms
+----www.google.com PING Statistics----
+8 packets transmitted, 8 packets received, 0.00 % packet loss
+round-trip min/avg/max = 13.49(ms)/67.14(ms)/178.56(ms)
+Ping www.google.com at (142.250.190.132): 32 data bytes
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=0 ttl=118 time=15.04 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=1 ttl=118 time=60.86 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=2 ttl=118 time=105.87 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=3 ttl=118 time=16.31 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=4 ttl=118 time=16.65 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=5 ttl=118 time=16.47 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=6 ttl=118 time=15.75 ms
+Receive 32 bytes from www.google.com (142.250.190.132): icmp_seq=7 ttl=118 time=20.49 ms
+----www.google.com PING Statistics----
+8 packets transmitted, 8 packets received, 0.00 % packet loss
+round-trip min/avg/max = 15.04(ms)/33.43(ms)/105.87(ms)
+Ping localhost at (127.0.0.1): 256 data bytes
+Receive 256 bytes from localhost (127.0.0.1): icmp_seq=0 ttl=64 time=0.32 ms
+Receive 256 bytes from localhost (127.0.0.1): icmp_seq=1 ttl=64 time=0.72 ms
+----localhost PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip min/avg/max = 0.32(ms)/0.52(ms)/0.72(ms)
+Ping localhost at (127.0.0.1): 256 data bytes
+Receive 256 bytes from localhost (127.0.0.1): icmp_seq=0 ttl=64 time=0.29 ms
+Receive 256 bytes from localhost (127.0.0.1): icmp_seq=1 ttl=64 time=0.54 ms
+----localhost PING Statistics----
+2 packets transmitted, 2 packets received, 0.00 % packet loss
+round-trip min/avg/max = 0.29(ms)/0.41(ms)/0.54(ms)
